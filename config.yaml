@@ -1,4 +1,4 @@
-baseURL: "https://blog.emze.fr/"
+baseURL: https://blog.emze.fr/
 title: emze.fr
 paginate: 5
 theme: PaperMod
@@ -23,7 +23,7 @@ params:
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: dark # dark, light
+  defaultTheme: auto # dark, light
   disableThemeToggle: false
 
   ShowPostNavLinks: true
@@ -115,15 +115,15 @@ params:
 menu:
   main:
     - name: Archive
-      url: https://blog.emze.fr/archives
+      url: archives
       weight: 5
     - identifier: Categories
       name: Categories
-      url: https://blog.emze.fr/categories/
+      url: categories
       weight: 10
     - identifier: Tags
       name: Tags
-      url: https://blog.emze.fr/tags/
+      url: tags
       weight: 20
     # - identifier: example
       # name: example.org

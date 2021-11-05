@@ -7,7 +7,6 @@ aliases: ["/aboutme"]
 tags: ["me"]
 categories: ["me"]
 author: "emze"
-canonicalURL: "https://emze.azumi.fr/aboutme"
 ---
 
 ## Intro
