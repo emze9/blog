@@ -115,15 +115,15 @@ params:
 menu:
   main:
     - name: Archive
-      url: archives
+      url: https://blog.emze.fr/archives
       weight: 5
     - identifier: Categories
       name: Categories
-      url: /categories/
+      url: https://blog.emze.fr/categories/
       weight: 10
     - identifier: Tags
       name: Tags
-      url: /tags/
+      url: https://blog.emze.fr/tags/
       weight: 20
     # - identifier: example
       # name: example.org
