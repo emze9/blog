@@ -1,5 +1,5 @@
-baseURL: https://blog.emze.fr/
-title: emze.fr
+baseURL: https://azumi.fr/
+title: azumi.fr
 paginate: 5
 theme: PaperMod
 
@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: emze.fr
+  title: azumi.fr
   description: "Blog"
   keywords: [Blog, Portfolio, PaperMod]
   author: emze
@@ -50,7 +50,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "emze.fr"
+    text: "azumi.fr"
     icon: /bits.png
     iconHeight: 35
 
